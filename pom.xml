@@ -1382,7 +1382,7 @@
         <version.apacheds>1.5.7</version.apacheds>
         <version.apache-shared-ldap>0.9.19</version.apache-shared-ldap>
         <version.exec.maven>1.6.0</version.exec.maven>
-        <version.hibernate>5.4.24.Final</version.hibernate>
+        <version.hibernate>5.6.15.Final</version.hibernate>
         <version.jersey>1.19.4</version.jersey>
         <version.slf4j>1.7.31</version.slf4j>
         <version.spotbugs.maven>4.2.3</version.spotbugs.maven>
