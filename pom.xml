@@ -1379,12 +1379,12 @@
         </tomcat.jvmargs.debug>
         <log.directory>${project.build.directory}/log</log.directory>
 
-        <version.apacheds>1.5.7</version.apacheds>
+        <version.apacheds>2.0.0.AM25</version.apacheds>
         <version.apache-shared-ldap>0.9.19</version.apache-shared-ldap>
         <version.exec.maven>1.6.0</version.exec.maven>
         <version.hibernate>5.4.24.Final</version.hibernate>
         <version.jersey>1.19.4</version.jersey>
-        <version.slf4j>1.7.31</version.slf4j>
+        <version.slf4j>1.7.34</version.slf4j>
         <version.spotbugs.maven>4.2.3</version.spotbugs.maven>
         <version.spotbugs>4.2.3</version.spotbugs>
         <version.spotless>2.10.1</version.spotless>
